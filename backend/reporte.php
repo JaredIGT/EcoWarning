@@ -7,7 +7,7 @@ try {
     $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
     $days = isset($_GET['days']) ? (int)$_GET['days'] : 7;
-    $days = max(0, min(3650, $days)); // límites sanos
+    $days = max(0, min(3650, $days));
 
     $cond = '';
     $args = [];
