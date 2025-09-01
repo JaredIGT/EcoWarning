@@ -34,7 +34,7 @@ function destroyCharts () {
 
 onMounted(async () => {
   try {
-    const res = await api.get('/reporte.php')
+    const res = await api.get('/reporte.php?days=30')
     const data = res?.data
     console.log('Reporte.php response:', data)
 
