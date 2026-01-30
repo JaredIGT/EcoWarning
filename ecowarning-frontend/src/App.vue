@@ -14,7 +14,6 @@
         </nav>
       </div>
     </header>
-
     <main class="main-content">
       <RouterView />
     </main>
