@@ -2,7 +2,7 @@
 
 **EcoWarning!** es una plataforma ciudadana para reportar incidentes ambientales en Ecuador.  
 Permite registrar, visualizar y filtrar denuncias geolocalizadas con evidencia fotográfica y nivel de gravedad.  
-Los reportes se muestran en un mapa interactivo y también en tablas filtrables, con estadísticas gráficas.
+Los reportes se muestran en un mapa interactivo y también en tablas filtrables, con estadísticas gráficas
 
 
 ## 🛠 Herramientas Usadas
